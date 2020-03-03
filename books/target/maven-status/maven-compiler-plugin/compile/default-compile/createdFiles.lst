@@ -1,0 +1,9 @@
+com\csrepo\spring\config\WebConfig.class
+com\csrepo\spring\controller\BookController.class
+com\csrepo\spring\dao\BookDao.class
+com\csrepo\spring\model\Book.class
+com\csrepo\spring\service\BookService.class
+com\csrepo\spring\service\BookServiceImpl.class
+com\csrepo\spring\config\MyWebAppInitializer.class
+com\csrepo\spring\dao\BookDaoImpl.class
+com\csrepo\spring\config\AppConfig.class
